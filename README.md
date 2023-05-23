@@ -1,14 +1,32 @@
 ![MasterHead](https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif)
 <h1 align="center">Hi 👋, I'm Darsh Joshi</h1>
 <h3 align="center">A Data Science Grad student at Pace University.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="darshjoshi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshjoshi" alt="darshjoshi" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/darsh_joshi16" target="blank"><img src="https://img.shields.io/twitter/follow/darsh_joshi16?logo=twitter&style=for-the-badge" alt="darsh_joshi16" /></a> </p>
 
 - 🔭 I’m currently working on **Valorant Data Analysis**
 
+- 🌱 I’m currently learning **Generative AI**
+
+- 👯 I’m looking to collaborate on **Data Related real time projects**
+
+- 🤝 I’m looking for help with **Cloud Data Stacks like AWS, GCP, etc.**
+
+- 💬 Ask me about **Data Analysis, Visualization**
+
 - 📫 How to reach me **contact@darshjoshi.com**
+
+- ⚡ Fun fact **I have a degree in music as well. I play Indian Classical musical instrument called "Tabla".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/darsh_joshi16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darsh_joshi16" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/darshjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshjoshi" height="30" width="40" /></a>
+<a href="https://kaggle.com/darshjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="darshjoshi" height="30" width="40" /></a>
 <a href="https://instagram.com/darsh.joshii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darsh.joshii" height="30" width="40" /></a>
 </p>
 
