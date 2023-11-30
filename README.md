@@ -12,15 +12,15 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👯 I’m looking to collaborate on **Data Related real time projects**
+- 👯 I’m looking to collaborate on **Data Related real-time projects**
 
 - 🤝 I’m looking for help with **Cloud Data Stacks like AWS, GCP, etc.**
 
-- 💬 Ask me about **Data Analysis, Visualization**
+- 💬 Ask me about **Data Analysis, Visualization, GenAI Application**
 
 - 📫 How to reach me **contact@darshjoshi.com**
 
-- ⚡ Fun fact **I have a degree in music as well. I play Indian Classical musical instrument called "Tabla".**
+- ⚡ Fun fact **I have a degree in music as well. I play an Indian Classical musical instrument called "Tabla".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
