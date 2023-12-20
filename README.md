@@ -1,6 +1,6 @@
 ![MasterHead](https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif)
 <h1 align="center">Hi 👋, I'm Darsh Joshi</h1>
-<h3 align="center">A Data Science Grad student at Pace University.</h3>
+<h3 align="center">Data Scientist at KeeperAI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="darshjoshi" /> </p>
 
