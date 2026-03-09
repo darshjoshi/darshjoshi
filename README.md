@@ -1,38 +1,141 @@
-![MasterHead](https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif)
-<h1 align="center">Hi 👋, I'm Darsh Joshi</h1>
-<h3 align="center">Data Scientist at KeeperAI</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="darshjoshi" /> </p>
+# Hey, I'm Darsh
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshjoshi" alt="darshjoshi" /></a> </p>
+**AI Engineer @ [Yahoo](https://yahoo.com) (Paranoids) &middot; Adjunct Professor @ [Pace University](https://www.pace.edu/seidenberg)**
 
-<p align="left"> <a href="https://twitter.com/darsh_joshi16" target="blank"><img src="https://img.shields.io/twitter/follow/darsh_joshi16?logo=twitter&style=for-the-badge" alt="darsh_joshi16" /></a> </p>
+I build agentic AI systems for cyber engineering by day, and teach Applied AI to 40+ students by night.
 
-- 🔭 I’m currently working on **Valorant Data Analysis**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5K%2B%20followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshjoshi)
+[![Website](https://img.shields.io/badge/darshjoshi.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://darshjoshi.com)
+[![Email](https://img.shields.io/badge/contact@darshjoshi.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@darshjoshi.com)
+[![Cal](https://img.shields.io/badge/Book%20a%20Chat-292929?style=for-the-badge&logo=google-calendar&logoColor=white)](https://cal.com/darshjoshi/30min)
 
-- 🌱 I’m currently learning **Generative AI**
+</div>
 
-- 👯 I’m looking to collaborate on **Data Related real-time projects**
+---
 
-- 🤝 I’m looking for help with **Cloud Data Stacks like AWS, GCP, etc.**
+### What I'm up to
 
-- 💬 Ask me about **Data Analysis, Visualization, GenAI Application**
+- **@ Yahoo Paranoids** &mdash; Building agentic AI solutions for cybersecurity engineering
+- **@ Pace University** &mdash; Teaching Applied AI & Machine Learning (Adjunct Professor, 3rd year)
+- **[Job Search X-Ray](https://apps.darshjoshi.com/job-finder)** &mdash; Free tool that surfaces hidden jobs from ATS platforms before they hit job boards. Used by thousands of job seekers
+- **[Scribe AI](https://github.com/darshjoshi/scribe-ai)** &mdash; Privacy-first meeting assistant with local transcription and GPU acceleration (Rust)
 
-- 📫 How to reach me **contact@darshjoshi.com**
+### Previously
 
-- ⚡ Fun fact **I have a degree in music as well. I play an Indian Classical musical instrument called "Tabla".**
+`Parcha / Grep.ai` &mdash; AI Engineer, built due diligence agents with Claude Agent SDK
+`Gen AI Enable` &mdash; AI Engineer, enterprise GenAI solutions
+`KeeperAI` &mdash; Data Scientist, ML-powered matchmaking
+`BISAG-N (Indian Space Research)` &mdash; Research Intern, satellite imagery change detection with GIS + ML
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/darsh_joshi16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darsh_joshi16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/darshjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshjoshi" height="30" width="40" /></a>
-<a href="https://kaggle.com/darshjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="darshjoshi" height="30" width="40" /></a>
-<a href="https://instagram.com/darsh.joshii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darsh.joshii" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Tech I work with daily
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshjoshi&show_icons=true&locale=en&layout=compact" alt="darshjoshi" /></p>
+<table>
+<tr>
+<td><b>AI / ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20SDK-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Infra</b></td>
+<td>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/PostHog-F54E00?style=flat-square&logo=posthog&logoColor=white" />
+</td>
+</tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshjoshi&show_icons=true&locale=en" alt="darshjoshi" /></p>
+---
+
+### Featured projects
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [**Job Search X-Ray**](https://apps.darshjoshi.com/job-finder) | Generates advanced Google queries to find jobs on ATS platforms (Greenhouse, Lever, Workday, +5 more) before they appear on job boards | Next.js, PostHog |
+| [**Apps Dashboard**](https://apps.darshjoshi.com) | Unified platform hosting multiple AI-powered tools | Next.js 14+, FastAPI, Tailwind |
+| [**Scribe AI**](https://github.com/darshjoshi/scribe-ai) | Privacy-first meeting assistant &mdash; local transcription, GPU-accelerated, no cloud dependency | Rust |
+| [**Learning on Steroids**](https://github.com/darshjoshi/learning-on-steroids) | AI-powered learning platform | Python, React |
+| [**YourPodcast**](https://github.com/darshjoshi/yourpodcast) | Turn any content into a short podcast with AI-generated audio | Python, Streamlit |
+
+---
+
+### Teaching
+
+I've been teaching at **Pace University's Seidenberg School** since 2024. Courses I teach and have assisted with:
+
+- **Applied Machine Learning** &mdash; Hands-on ML with real-world datasets
+- **Data Science & Analytics** &mdash; From EDA to production models
+- **Computational Intelligence Lab** &mdash; Research workshops & tutorials
+
+I also mentor students through career transitions. If you're an early-career professional or new grad navigating the AI job market, I'm happy to help:
+
+<div align="center">
+
+[![Book a free 30-min chat](https://img.shields.io/badge/Book%20a%20free%2030--min%20chat-000?style=for-the-badge)](https://cal.com/darshjoshi/30min)
+
+</div>
+
+---
+
+### Education
+
+**MS Data Science** &mdash; Pace University (GPA: 3.97/4.0) &middot; Graduate Student of the Year
+**BE Information Technology** &mdash; Gujarat Technological University (GPA: 8.59/10)
+
+---
+
+### Fun facts
+
+- I have a degree in music &mdash; I play **Tabla**, an Indian classical percussion instrument
+- Founded the **Pace Data Science Club** (300+ members)
+- Won the **Inclusive Hackathon** by Digital Page & Capgemini
+- 2x Best Research Paper Presentation at Footprint, MS University
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=darshjoshi&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshjoshi&layout=compact&theme=graywhite&hide_border=true" height="160" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=darshjoshi&label=Profile%20views&color=000&style=flat-square" />
+
+<br/><br/>
+
+*I ship fast, learn from feedback, and iterate until the metrics move.*
+
+</div>
