@@ -127,12 +127,12 @@ I also mentor students through career transitions. If you're an early-career pro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=darshjoshi&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshjoshi&layout=compact&theme=graywhite&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=darshjoshi&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshjoshi&layout=compact&theme=default&hide_border=true" height="160" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=darshjoshi&label=Profile%20views&color=000&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=darshjoshi&label=Profile%20views&color=000000&style=flat-square" />
 
 <br/><br/>
 
